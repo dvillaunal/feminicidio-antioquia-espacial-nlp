@@ -83,6 +83,6 @@ c_fb <- conteos$valor[conteos$medida == "comentarios_facebook"]
 
 # Registro de fuentes (tipo y letra de fiabilidad)
 reg <- fromJSON(file.path(RAIZ, "03_Fuentes_y_Datos", "datos", "validacion_fuentes.json"))$fuentes
-fuentes <- reg |> filter(uso != "Datos descargados (Fase 1)") |> mutate(letra = substr(clasif, 1, 1))
+fuentes <- reg |> filter(!startsWith(uso, "Datos descargados")) |> mutate(letra = substr(clasif, 1, 1))
 c_fuentes <- nrow(fuentes)
 c_conjuntos <- sum(reg$uso == "Datos descargados (Fase 1)")

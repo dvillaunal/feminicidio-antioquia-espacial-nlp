@@ -1,16 +1,16 @@
 {
- "fecha": "2026-10-03",
+ "fecha": "2026-11-08",
  "en_linea": false,
  "resumen": {
-  "total": 95,
+  "total": 98,
   "con_url_especifica": 0,
   "solo_portada": 84,
   "sin_url": 3,
-  "urls_unicas": 73,
+  "urls_unicas": 76,
   "por_tipo": {
-   "Gobierno": 32,
+   "Gobierno": 34,
    "Académica": 27,
-   "Sin clasificar": 2,
+   "Sin clasificar": 3,
    "Prensa": 5,
    "ONG u organismo internacional": 13,
    "Herramienta o blog técnico": 12,
@@ -19,18 +19,19 @@
   "por_uso": {
    "Usada en el informe": 66,
    "Consultada, no usada": 21,
-   "Datos descargados (Fase 1)": 8
+   "Datos descargados (Fase 1)": 8,
+   "Datos descargados (Entrega 2)": 3
   },
   "por_clasif": {
    "B6": 34,
    "C6": 36,
    "F6": 2,
-   "D6": 14,
+   "D6": 15,
    "E6": 4,
    "B3": 1,
-   "B2": 2,
+   "B2": 3,
    "B4": 1,
-   "A2": 1
+   "A2": 2
   }
  },
  "fuentes": [
@@ -1634,6 +1635,51 @@
    "verif": "200 · 2026-10-03",
    "_url_reg_txt": "https://news.google.com/rss/search?q=feminicidio+Antioquia&hl=es-419&gl=CO&ceid=CO:es-419",
    "tipo": "Herramienta o blog técnico",
+   "avisos": []
+  },
+  {
+   "id": 96,
+   "uso": "Datos descargados (Entrega 2)",
+   "titulo": "Ley 1761 de 2015, texto vigente (Secretaría del Senado)",
+   "dominio": "secretariasenado.gov.co",
+   "url_registrada": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1761_2015.html",
+   "url_especifica": "",
+   "nota": "Art. 104A (seis literales) y 104B",
+   "clasif": "A2",
+   "motivo": "Texto oficial de la norma publicado por el Congreso; no se contrastó con el Diario Oficial impreso.",
+   "verif": "200 · 2026-11-08",
+   "_url_reg_txt": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1761_2015.html",
+   "tipo": "Gobierno",
+   "avisos": []
+  },
+  {
+   "id": 97,
+   "uso": "Datos descargados (Entrega 2)",
+   "titulo": "Suicidios por municipio, Gobernación de Antioquia (solo la tabla de municipios y subregiones)",
+   "dominio": "datos.gov.co",
+   "url_registrada": "https://www.datos.gov.co/d/db67-sbus",
+   "url_especifica": "",
+   "nota": "Solo se usa la división territorial",
+   "clasif": "B2",
+   "motivo": "Gobernación de Antioquia; 125 municipios en 9 subregiones; todos los códigos de municipio de la Policía aparecen en la tabla.",
+   "verif": "200 · 2026-11-08",
+   "_url_reg_txt": "https://www.datos.gov.co/d/db67-sbus",
+   "tipo": "Gobierno",
+   "avisos": []
+  },
+  {
+   "id": 98,
+   "uso": "Datos descargados (Entrega 2)",
+   "titulo": "OpenAlex (API de literatura académica)",
+   "dominio": "openalex.org",
+   "url_registrada": "https://api.openalex.org/works",
+   "url_especifica": "",
+   "nota": "Búsqueda reproducible de la revisión sistemática",
+   "clasif": "D6",
+   "motivo": "Índice o agregador: no es el editor; cada estudio se clasifica aparte al leerlo.",
+   "verif": "200 · 2026-11-08",
+   "_url_reg_txt": "https://api.openalex.org/works",
+   "tipo": "Sin clasificar",
    "avisos": []
   }
  ]

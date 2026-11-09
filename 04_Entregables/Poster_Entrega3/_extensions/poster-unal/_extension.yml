@@ -1,0 +1,13 @@
+title: Póster UNAL (Tercera Entrega)
+author: Daniel Felipe Villa Rengifo
+version: 1.0.0
+quarto-required: ">=1.9.0"
+# Adaptado de quarto-ext/typst-templates (poster), que a su vez usa typst-poster
+# (MIT, Copyright (c) 2023 Parth Parikh). Cambios: lienzo 120 x 90 cm, cuadrícula 3 x 2,
+# tipografía y colores según la plantilla de entregas del programa (Tercera Entrega).
+contributes:
+  formats:
+    typst:
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ

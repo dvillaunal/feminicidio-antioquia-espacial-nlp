@@ -1,0 +1,6 @@
+nivel,unidades,anios,celdas,casos,pct_celdas_cero,pct_celdas_menos_3,media_por_celda,mediana_por_celda,cv_azar_pct
+Municipio–año,125,2015-2025,1375,1645,55.6,88.9,1.2,0,91.4
+Subregión–año,9,2015-2025,99,1645,0.0,3.0,16.62,11,24.5
+Departamento–año,1,2015-2025,11,1645,0.0,0.0,149.55,151,8.2
+Subregión–año sin Valle de Aburrá,8,2015-2025,88,1020,0.0,3.4,11.59,10.0,29.4
+"Municipio, años acumulados",125,2015-2025,125,1645,8.0,24.8,13.16,6,27.6

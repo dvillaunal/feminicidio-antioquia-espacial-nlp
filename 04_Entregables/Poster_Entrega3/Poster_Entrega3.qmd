@@ -1,0 +1,165 @@
+---
+title: "Modelos de lenguaje con generación aumentada por recuperación y análisis espacial para la catalogación de presuntos feminicidios y la construcción de indicadores territoriales en Antioquia"
+subtitle: "(Formato Tercera Entrega Póster)"
+estudiante: "Daniel Felipe Villa Rengifo"
+programa: "Maestría en Ingeniería – Analítica"
+facultad: "Facultad de Minas · Universidad Nacional de Colombia, Sede Medellín"
+grupo: "Departamento de Ciencias de la Computación y la Decisión"
+correo: "dvilla@unal.edu.co"
+logo-izq: "logos/escudo-unal-2016.svg"
+lang: es
+format:
+  poster-unal-typst:
+    keep-typ: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| include: false
+source("R/datos_poster.R")
+source("R/figuras_poster.R")
+source("R/rsl_poster.R")
+
+REPO <- "https://github.com/dvillaunal/MSc-project-Fase1"  # dirección del repositorio público (QR y pie)
+
+f_viab  <- guardar(fig_viabilidad(), "f3_viabilidad", 35, 4.4)
+f_brech <- guardar(fig_brecha_oficial(), "f5_registros_oficiales", 35, 7.2)
+f_qr    <- qr_repo(REPO)
+
+typ <- function(...) cat("\n```{=typst}\n", ..., "\n```\n", sep = "")
+img <- function(ruta) paste0('"', ruta, '"')
+```
+
+```{r}
+#| output: asis
+typ('
+#let paso(n, t, d) = block(width: 100%, height: 4.7cm, fill: verde.lighten(82%), inset: (x: 0.45cm, y: 0.35cm), radius: 0.3cm)[
+  #set align(top + left)
+  #text(size: 25pt, weight: "bold", fill: verde-osc)[#n. #t]
+  #v(0.1cm)
+  #set text(size: 22pt)
+  #set par(leading: 0.3em)
+  #d
+]
+#let flecha = text(size: 30pt, fill: verde)[→]
+#let literal(l, t) = (text(weight: "bold", fill: verde-osc)[#l], t)
+#let sub-titulo(t) = block(above: 0.3cm, below: 0.2cm, text(size: 34pt, weight: "bold", fill: verde-osc)[#t])
+
+#grid(
+  columns: (1fr, 1fr, 1fr), column-gutter: 1.2cm, row-gutter: 1.0cm,
+
+  seccion(1, [Motivación], subtitulo: [Contexto / Propósito · Cómo · Qué])[
+    - Medicina Legal registró *', c_ml24, '* presuntos homicidios de mujeres en Antioquia en 2024; la tasa bajó de ', num(c_t18, 1), ' a ', num(c_t24, 1), ' por 100.000 mujeres entre 2018 y 2024.
+    #destacado[*Propósito:* catalogar cada nuevo registro según el art. 104A, con evidencia de casos validados, y resumir los resultados en indicadores territoriales.]
+    #sub-titulo[Cómo]
+    #grid(columns: (1fr, auto, 1fr, auto, 1fr, auto, 1fr), column-gutter: 0.15cm, align: horizon,
+      paso(1, [Base validada], [Registros oficiales y su noticia de prensa, con confiabilidad A1–F6]), flecha,
+      paso(2, [Recuperación], [Busca los casos validados más parecidos (RAG)]), flecha,
+      paso(3, [Catalogación], [Un LLM propone literales del art. 104A con su evidencia; revisión humana]), flecha,
+      paso(4, [Indicadores], [Cifras agregadas por subregión o municipio]),
+    )
+    #sub-titulo[Qué]
+    - *Objeto:* registros de presunto feminicidio y de presunto homicidio de mujeres en los ', c_municipios, ' municipios (', c_subregiones, ' subregiones) de Antioquia, ', c_anio_ini, '–', c_anio_fin, '. *Unidad:* subregión–año.
+    #figura(', img(f_viab), ')[*Figura 1.* Celdas según presuntos homicidios de mujeres. Fuente: Policía Nacional.]
+  ],
+
+  seccion(2, [Marco teórico], subtitulo: [De referencia])[
+    *Feminicidio (art. 104A, Ley 1761 de 2015):* causar la muerte a una mujer por su condición de ser mujer o por motivos de su identidad de género, o cuando concurra o anteceda alguna de estas circunstancias:
+    #v(0.1cm)
+    #set text(size: 26pt)
+    #table(columns: (2.2cm, 1fr), stroke: none, inset: (x: 0.3cm, y: 0.2cm), fill: (_, y) => if calc.odd(y) { verde.lighten(85%) },
+      ..literal([a)], [Relación actual o pasada (familiar, íntima, de convivencia, amistad, compañerismo o trabajo) y ciclo de violencia previo del autor]),
+      ..literal([b)], [Instrumentalización de género o sexual; opresión y dominio sobre sus decisiones]),
+      ..literal([c)], [Aprovechamiento de relaciones de poder]),
+      ..literal([d)], [Generar terror o humillación a quien se considere enemigo]),
+      ..literal([e)], [Antecedentes o indicios de violencia o amenaza del autor contra la víctima, denunciados o no]),
+      ..literal([f)], [Incomunicación o privación de la libertad]),
+    )
+    #set text(size: 32pt)
+    - *Presunto:* sin decisión judicial, todo registro se trata como presunto.
+    - *RAG (generación aumentada por recuperación):* un modelo de lenguaje grande (LLM) responde con documentos recuperados de una base propia y cita la evidencia (Lewis et al., 2020).
+    - *Heterogeneidad espacial:* los factores asociados pueden pesar distinto en cada territorio de Antioquia (Sepúlveda Murillo et al., 2018).
+  ],
+
+  seccion(3, [Revisión sistemática de la literatura])[
+    ', rsl_texto, '
+  ],
+
+  seccion(4, [Problema])[
+    - Las fuentes oficiales miden cosas distintas:
+    #figura(', img(f_brech), ')[*Figura 2.* Antioquia, registros oficiales por año. Fuentes: Medicina Legal y Fiscalía.]
+    - En el ', pct(c_fis_sin_modalidad), ' de los ', c_fis_total, ' registros de la Fiscalía (Antioquia, todos los años) la modalidad es «sin información» o «por establecer»; los datos abiertos consultados no indican el literal del art. 104A.
+    - Por municipio–año, el ', pct(c_mun_men3), ' de las celdas tiene menos de 3 registros: las tasas municipales anuales no son estables.
+    #destacado[*Pregunta:* ¿cómo catalogar de forma trazable los registros de presunto feminicidio en Antioquia según el art. 104A, y a qué nivel territorial esa catalogación produce indicadores estables?]
+  ],
+
+  seccion(5, [Objetivos])[
+    #set text(size: 30pt)
+    #destacado[*Hipótesis:* es posible catalogar los registros de presunto feminicidio en Antioquia según el art. 104A con un modelo de lenguaje que recupera casos validados, con mayor acuerdo con expertos que el mismo modelo sin recuperación, y obtener indicadores por subregión con menos ruido por azar que por municipio.]
+    *General:* desarrollar un catalogador de los registros de presunto feminicidio en Antioquia según el art. 104A, con un modelo de lenguaje que recupera casos validados (RAG), que logre mayor acuerdo con expertos que el mismo modelo sin recuperación y produzca indicadores por subregión con menos ruido por azar que por municipio.
+    #v(0.1cm)
+    *Específicos:*
+    #set text(size: 27pt)
+    #set enum(spacing: 0.4em)
+    + Identificar los métodos de LLM, RAG y análisis espacial usados para estudiar el feminicidio.
+    + Caracterizar las fuentes de Antioquia según su confiabilidad (A1–F6) y su cobertura territorial.
+    + Determinar el nivel territorial en que los indicadores tienen menos ruido por azar.
+    + Construir la base de casos validados en dos versiones: interna y pública anonimizada.
+    + Desarrollar el catalogador RAG que asigna los literales del art. 104A con su evidencia.
+    + Evaluar el catalogador frente a expertos y frente al mismo modelo sin recuperación.
+  ],
+
+  seccion(6, [Diseño metodológico])[
+    #set text(size: 24pt)
+    #table(columns: (5.4cm, 1fr, 8.4cm), stroke: none, inset: (x: 0.25cm, y: 0.22cm),
+      fill: (_, y) => if y == 0 { verde.lighten(70%) } else if calc.even(y) { verde.lighten(85%) },
+      [*Fase (objetivo)*], [*Métodos*], [*Producto y validación*],
+      [*1.* Revisión (OE1)], [PRISMA 2020; búsqueda reproducible en OpenAlex, luego Scopus y Web of Science], [Matriz de extracción; protocolo auditable],
+      [*2.* Fuentes (OE2)], [Inventario y clasificación A1–F6; contraste entre registros oficiales], [Catálogo de fuentes],
+      [*3.* Nivel territorial (OE3)], [Agregación municipio → subregión; ruido por azar (1/√media); modelo multinivel (municipio dentro de subregión)], [Unidad de análisis justificada],
+      [*4.* Base de casos (OE4)], [Versión interna con fuente y texto; versión pública agregada, cifras menores que 3 suprimidas], [Base en dos versiones; prueba de reidentificación],
+      [*5.* Catalogador (OE5)], [Búsqueda semántica de casos validados; LLM con salida por literal y su evidencia], [Catalogador con revisión humana],
+      [*6.* Evaluación (OE6)], [kappa de Cohen y F1 por literal frente a expertos; con y sin recuperación], [Informe de evaluación; indicadores por subregión],
+    )
+    #v(0.15cm)
+    - *Delimitaciones:* Antioquia, ', c_anio_ini, '–', c_anio_fin, '; registros ya reportados; enfoque explicativo, sin predicción.
+    - *Limitaciones:* rezago en la tipificación; cobertura desigual de la prensa; sin acceso a expedientes; la viabilidad se midió con todos los presuntos homicidios de mujeres, y los de presunto feminicidio son menos.
+    - *Cuidado de los datos:* siempre «presunto»; solo cifras agregadas, sin relatos individuales.
+  ],
+)
+
+#v(1.0cm)
+
+#grid(
+  columns: (2fr, 1fr), column-gutter: 1.2cm,
+  block(width: 100%, height: 14.4cm, fill: white, inset: (x: 1.3cm, y: 0.8cm), stroke: (top: 8pt + verde))[
+    #text(size: 44pt, weight: "bold", fill: verde-osc)[7\\. Referencias]
+    #v(0.1cm)
+    #set text(font: "Ancizar Serif", size: 20pt)
+    #set par(hanging-indent: 1.2em, leading: 0.4em, spacing: 0.5em)
+    #columns(2, gutter: 1.2cm)[
+    ', ref_texto, '
+    ]
+  ],
+  block(width: 100%, height: 14.4cm, fill: white, inset: (x: 1.3cm, y: 0.8cm), stroke: (top: 8pt + verde))[
+    #grid(columns: (8.4cm, 1fr), column-gutter: 0.9cm, align: horizon,
+      image(', img(f_qr), ', width: 8.4cm),
+      [
+        #text(size: 36pt, weight: "bold", fill: verde-osc)[Más información]
+        #v(0.2cm)
+        #text(size: 24pt)[Pósters, datos agregados, búsqueda de literatura y código de cada cifra.]
+        #v(0.2cm)
+        #text(size: 22pt, fill: gris)[', sub("^https?://", "", REPO), ']
+      ],
+    )
+    #v(0.5cm)
+    #text(size: 30pt, weight: "bold", fill: verde-osc)[Directores / Asesores]
+    #v(0.1cm)
+    #text(size: 30pt, weight: "bold")[Fernán Alonso Villa Garzón, Ph.D.] #h(0.4em) #text(size: 26pt, fill: gris)[Tutor]
+  ],
+)
+')
+```

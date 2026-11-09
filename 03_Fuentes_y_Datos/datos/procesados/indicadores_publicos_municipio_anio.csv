@@ -1,0 +1,1376 @@
+cod_muni,municipio,subregion,anio,homicidios_mujeres
+05001,Medellín,Valle de Aburrá,2015,41
+05001,Medellín,Valle de Aburrá,2016,39
+05001,Medellín,Valle de Aburrá,2017,59
+05001,Medellín,Valle de Aburrá,2018,41
+05001,Medellín,Valle de Aburrá,2019,49
+05001,Medellín,Valle de Aburrá,2020,31
+05001,Medellín,Valle de Aburrá,2021,32
+05001,Medellín,Valle de Aburrá,2022,27
+05001,Medellín,Valle de Aburrá,2023,28
+05001,Medellín,Valle de Aburrá,2024,25
+05001,Medellín,Valle de Aburrá,2025,25
+05002,Abejorral,Oriente,2015,0
+05002,Abejorral,Oriente,2016,<3
+05002,Abejorral,Oriente,2017,0
+05002,Abejorral,Oriente,2018,<3
+05002,Abejorral,Oriente,2019,0
+05002,Abejorral,Oriente,2020,<3
+05002,Abejorral,Oriente,2021,<3
+05002,Abejorral,Oriente,2022,0
+05002,Abejorral,Oriente,2023,<3
+05002,Abejorral,Oriente,2024,0
+05002,Abejorral,Oriente,2025,0
+05004,Abriaquí,Occidente,2015,0
+05004,Abriaquí,Occidente,2016,0
+05004,Abriaquí,Occidente,2017,0
+05004,Abriaquí,Occidente,2018,0
+05004,Abriaquí,Occidente,2019,0
+05004,Abriaquí,Occidente,2020,0
+05004,Abriaquí,Occidente,2021,0
+05004,Abriaquí,Occidente,2022,0
+05004,Abriaquí,Occidente,2023,0
+05004,Abriaquí,Occidente,2024,0
+05004,Abriaquí,Occidente,2025,0
+05021,Alejandría,Oriente,2015,0
+05021,Alejandría,Oriente,2016,0
+05021,Alejandría,Oriente,2017,<3
+05021,Alejandría,Oriente,2018,0
+05021,Alejandría,Oriente,2019,0
+05021,Alejandría,Oriente,2020,0
+05021,Alejandría,Oriente,2021,0
+05021,Alejandría,Oriente,2022,0
+05021,Alejandría,Oriente,2023,0
+05021,Alejandría,Oriente,2024,0
+05021,Alejandría,Oriente,2025,0
+05030,Amagá,Suroeste,2015,0
+05030,Amagá,Suroeste,2016,<3
+05030,Amagá,Suroeste,2017,<3
+05030,Amagá,Suroeste,2018,<3
+05030,Amagá,Suroeste,2019,<3
+05030,Amagá,Suroeste,2020,0
+05030,Amagá,Suroeste,2021,0
+05030,Amagá,Suroeste,2022,<3
+05030,Amagá,Suroeste,2023,0
+05030,Amagá,Suroeste,2024,0
+05030,Amagá,Suroeste,2025,0
+05031,Amalfi,Nordeste,2015,3
+05031,Amalfi,Nordeste,2016,<3
+05031,Amalfi,Nordeste,2017,0
+05031,Amalfi,Nordeste,2018,<3
+05031,Amalfi,Nordeste,2019,0
+05031,Amalfi,Nordeste,2020,<3
+05031,Amalfi,Nordeste,2021,<3
+05031,Amalfi,Nordeste,2022,<3
+05031,Amalfi,Nordeste,2023,<3
+05031,Amalfi,Nordeste,2024,<3
+05031,Amalfi,Nordeste,2025,0
+05034,Andes,Suroeste,2015,<3
+05034,Andes,Suroeste,2016,<3
+05034,Andes,Suroeste,2017,4
+05034,Andes,Suroeste,2018,5
+05034,Andes,Suroeste,2019,<3
+05034,Andes,Suroeste,2020,<3
+05034,Andes,Suroeste,2021,0
+05034,Andes,Suroeste,2022,<3
+05034,Andes,Suroeste,2023,<3
+05034,Andes,Suroeste,2024,<3
+05034,Andes,Suroeste,2025,0
+05036,Angelópolis,Suroeste,2015,<3
+05036,Angelópolis,Suroeste,2016,0
+05036,Angelópolis,Suroeste,2017,<3
+05036,Angelópolis,Suroeste,2018,<3
+05036,Angelópolis,Suroeste,2019,0
+05036,Angelópolis,Suroeste,2020,<3
+05036,Angelópolis,Suroeste,2021,0
+05036,Angelópolis,Suroeste,2022,0
+05036,Angelópolis,Suroeste,2023,0
+05036,Angelópolis,Suroeste,2024,<3
+05036,Angelópolis,Suroeste,2025,<3
+05038,Angostura,Norte,2015,<3
+05038,Angostura,Norte,2016,<3
+05038,Angostura,Norte,2017,<3
+05038,Angostura,Norte,2018,0
+05038,Angostura,Norte,2019,<3
+05038,Angostura,Norte,2020,0
+05038,Angostura,Norte,2021,<3
+05038,Angostura,Norte,2022,<3
+05038,Angostura,Norte,2023,0
+05038,Angostura,Norte,2024,<3
+05038,Angostura,Norte,2025,<3
+05040,Anorí,Nordeste,2015,<3
+05040,Anorí,Nordeste,2016,<3
+05040,Anorí,Nordeste,2017,0
+05040,Anorí,Nordeste,2018,<3
+05040,Anorí,Nordeste,2019,0
+05040,Anorí,Nordeste,2020,<3
+05040,Anorí,Nordeste,2021,<3
+05040,Anorí,Nordeste,2022,<3
+05040,Anorí,Nordeste,2023,3
+05040,Anorí,Nordeste,2024,0
+05040,Anorí,Nordeste,2025,4
+05042,Santa Fe de Antioquia,Occidente,2015,0
+05042,Santa Fe de Antioquia,Occidente,2016,<3
+05042,Santa Fe de Antioquia,Occidente,2017,<3
+05042,Santa Fe de Antioquia,Occidente,2018,0
+05042,Santa Fe de Antioquia,Occidente,2019,<3
+05042,Santa Fe de Antioquia,Occidente,2020,<3
+05042,Santa Fe de Antioquia,Occidente,2021,<3
+05042,Santa Fe de Antioquia,Occidente,2022,3
+05042,Santa Fe de Antioquia,Occidente,2023,<3
+05042,Santa Fe de Antioquia,Occidente,2024,<3
+05042,Santa Fe de Antioquia,Occidente,2025,0
+05044,Anzá,Occidente,2015,0
+05044,Anzá,Occidente,2016,<3
+05044,Anzá,Occidente,2017,0
+05044,Anzá,Occidente,2018,<3
+05044,Anzá,Occidente,2019,0
+05044,Anzá,Occidente,2020,0
+05044,Anzá,Occidente,2021,0
+05044,Anzá,Occidente,2022,0
+05044,Anzá,Occidente,2023,0
+05044,Anzá,Occidente,2024,<3
+05044,Anzá,Occidente,2025,<3
+05045,Apartadó,Urabá,2015,4
+05045,Apartadó,Urabá,2016,3
+05045,Apartadó,Urabá,2017,<3
+05045,Apartadó,Urabá,2018,4
+05045,Apartadó,Urabá,2019,<3
+05045,Apartadó,Urabá,2020,<3
+05045,Apartadó,Urabá,2021,5
+05045,Apartadó,Urabá,2022,<3
+05045,Apartadó,Urabá,2023,0
+05045,Apartadó,Urabá,2024,4
+05045,Apartadó,Urabá,2025,0
+05051,Arboletes,Urabá,2015,<3
+05051,Arboletes,Urabá,2016,<3
+05051,Arboletes,Urabá,2017,<3
+05051,Arboletes,Urabá,2018,0
+05051,Arboletes,Urabá,2019,0
+05051,Arboletes,Urabá,2020,0
+05051,Arboletes,Urabá,2021,0
+05051,Arboletes,Urabá,2022,0
+05051,Arboletes,Urabá,2023,0
+05051,Arboletes,Urabá,2024,<3
+05051,Arboletes,Urabá,2025,0
+05055,Argelia,Oriente,2015,0
+05055,Argelia,Oriente,2016,0
+05055,Argelia,Oriente,2017,0
+05055,Argelia,Oriente,2018,0
+05055,Argelia,Oriente,2019,0
+05055,Argelia,Oriente,2020,<3
+05055,Argelia,Oriente,2021,0
+05055,Argelia,Oriente,2022,<3
+05055,Argelia,Oriente,2023,0
+05055,Argelia,Oriente,2024,<3
+05055,Argelia,Oriente,2025,0
+05059,Armenia,Occidente,2015,0
+05059,Armenia,Occidente,2016,0
+05059,Armenia,Occidente,2017,0
+05059,Armenia,Occidente,2018,0
+05059,Armenia,Occidente,2019,<3
+05059,Armenia,Occidente,2020,0
+05059,Armenia,Occidente,2021,0
+05059,Armenia,Occidente,2022,0
+05059,Armenia,Occidente,2023,0
+05059,Armenia,Occidente,2024,0
+05059,Armenia,Occidente,2025,0
+05079,Barbosa,Valle de Aburrá,2015,<3
+05079,Barbosa,Valle de Aburrá,2016,3
+05079,Barbosa,Valle de Aburrá,2017,0
+05079,Barbosa,Valle de Aburrá,2018,0
+05079,Barbosa,Valle de Aburrá,2019,0
+05079,Barbosa,Valle de Aburrá,2020,<3
+05079,Barbosa,Valle de Aburrá,2021,<3
+05079,Barbosa,Valle de Aburrá,2022,<3
+05079,Barbosa,Valle de Aburrá,2023,3
+05079,Barbosa,Valle de Aburrá,2024,0
+05079,Barbosa,Valle de Aburrá,2025,<3
+05086,Belmira,Norte,2015,0
+05086,Belmira,Norte,2016,0
+05086,Belmira,Norte,2017,0
+05086,Belmira,Norte,2018,0
+05086,Belmira,Norte,2019,0
+05086,Belmira,Norte,2020,0
+05086,Belmira,Norte,2021,<3
+05086,Belmira,Norte,2022,0
+05086,Belmira,Norte,2023,0
+05086,Belmira,Norte,2024,<3
+05086,Belmira,Norte,2025,0
+05088,Bello,Valle de Aburrá,2015,17
+05088,Bello,Valle de Aburrá,2016,7
+05088,Bello,Valle de Aburrá,2017,10
+05088,Bello,Valle de Aburrá,2018,10
+05088,Bello,Valle de Aburrá,2019,16
+05088,Bello,Valle de Aburrá,2020,15
+05088,Bello,Valle de Aburrá,2021,5
+05088,Bello,Valle de Aburrá,2022,5
+05088,Bello,Valle de Aburrá,2023,6
+05088,Bello,Valle de Aburrá,2024,<3
+05088,Bello,Valle de Aburrá,2025,5
+05091,Betania,Suroeste,2015,<3
+05091,Betania,Suroeste,2016,0
+05091,Betania,Suroeste,2017,<3
+05091,Betania,Suroeste,2018,<3
+05091,Betania,Suroeste,2019,4
+05091,Betania,Suroeste,2020,<3
+05091,Betania,Suroeste,2021,3
+05091,Betania,Suroeste,2022,<3
+05091,Betania,Suroeste,2023,0
+05091,Betania,Suroeste,2024,0
+05091,Betania,Suroeste,2025,<3
+05093,Betulia,Suroeste,2015,<3
+05093,Betulia,Suroeste,2016,<3
+05093,Betulia,Suroeste,2017,<3
+05093,Betulia,Suroeste,2018,<3
+05093,Betulia,Suroeste,2019,<3
+05093,Betulia,Suroeste,2020,<3
+05093,Betulia,Suroeste,2021,3
+05093,Betulia,Suroeste,2022,0
+05093,Betulia,Suroeste,2023,0
+05093,Betulia,Suroeste,2024,0
+05093,Betulia,Suroeste,2025,4
+05101,Ciudad Bolívar,Suroeste,2015,3
+05101,Ciudad Bolívar,Suroeste,2016,0
+05101,Ciudad Bolívar,Suroeste,2017,<3
+05101,Ciudad Bolívar,Suroeste,2018,3
+05101,Ciudad Bolívar,Suroeste,2019,5
+05101,Ciudad Bolívar,Suroeste,2020,6
+05101,Ciudad Bolívar,Suroeste,2021,7
+05101,Ciudad Bolívar,Suroeste,2022,<3
+05101,Ciudad Bolívar,Suroeste,2023,0
+05101,Ciudad Bolívar,Suroeste,2024,<3
+05101,Ciudad Bolívar,Suroeste,2025,<3
+05107,Briceño,Norte,2015,<3
+05107,Briceño,Norte,2016,<3
+05107,Briceño,Norte,2017,3
+05107,Briceño,Norte,2018,0
+05107,Briceño,Norte,2019,<3
+05107,Briceño,Norte,2020,0
+05107,Briceño,Norte,2021,<3
+05107,Briceño,Norte,2022,0
+05107,Briceño,Norte,2023,0
+05107,Briceño,Norte,2024,0
+05107,Briceño,Norte,2025,<3
+05113,Buriticá,Occidente,2015,0
+05113,Buriticá,Occidente,2016,<3
+05113,Buriticá,Occidente,2017,0
+05113,Buriticá,Occidente,2018,0
+05113,Buriticá,Occidente,2019,0
+05113,Buriticá,Occidente,2020,0
+05113,Buriticá,Occidente,2021,0
+05113,Buriticá,Occidente,2022,<3
+05113,Buriticá,Occidente,2023,<3
+05113,Buriticá,Occidente,2024,0
+05113,Buriticá,Occidente,2025,<3
+05120,Cáceres,Bajo Cauca,2015,<3
+05120,Cáceres,Bajo Cauca,2016,3
+05120,Cáceres,Bajo Cauca,2017,<3
+05120,Cáceres,Bajo Cauca,2018,4
+05120,Cáceres,Bajo Cauca,2019,8
+05120,Cáceres,Bajo Cauca,2020,6
+05120,Cáceres,Bajo Cauca,2021,8
+05120,Cáceres,Bajo Cauca,2022,3
+05120,Cáceres,Bajo Cauca,2023,<3
+05120,Cáceres,Bajo Cauca,2024,0
+05120,Cáceres,Bajo Cauca,2025,<3
+05125,Caicedo,Occidente,2015,0
+05125,Caicedo,Occidente,2016,0
+05125,Caicedo,Occidente,2017,0
+05125,Caicedo,Occidente,2018,0
+05125,Caicedo,Occidente,2019,0
+05125,Caicedo,Occidente,2020,0
+05125,Caicedo,Occidente,2021,<3
+05125,Caicedo,Occidente,2022,<3
+05125,Caicedo,Occidente,2023,0
+05125,Caicedo,Occidente,2024,0
+05125,Caicedo,Occidente,2025,0
+05129,Caldas,Valle de Aburrá,2015,<3
+05129,Caldas,Valle de Aburrá,2016,<3
+05129,Caldas,Valle de Aburrá,2017,<3
+05129,Caldas,Valle de Aburrá,2018,6
+05129,Caldas,Valle de Aburrá,2019,0
+05129,Caldas,Valle de Aburrá,2020,0
+05129,Caldas,Valle de Aburrá,2021,<3
+05129,Caldas,Valle de Aburrá,2022,<3
+05129,Caldas,Valle de Aburrá,2023,5
+05129,Caldas,Valle de Aburrá,2024,<3
+05129,Caldas,Valle de Aburrá,2025,<3
+05134,Campamento,Norte,2015,0
+05134,Campamento,Norte,2016,0
+05134,Campamento,Norte,2017,0
+05134,Campamento,Norte,2018,0
+05134,Campamento,Norte,2019,0
+05134,Campamento,Norte,2020,0
+05134,Campamento,Norte,2021,0
+05134,Campamento,Norte,2022,<3
+05134,Campamento,Norte,2023,0
+05134,Campamento,Norte,2024,0
+05134,Campamento,Norte,2025,<3
+05138,Cañasgordas,Occidente,2015,0
+05138,Cañasgordas,Occidente,2016,0
+05138,Cañasgordas,Occidente,2017,0
+05138,Cañasgordas,Occidente,2018,0
+05138,Cañasgordas,Occidente,2019,0
+05138,Cañasgordas,Occidente,2020,<3
+05138,Cañasgordas,Occidente,2021,0
+05138,Cañasgordas,Occidente,2022,0
+05138,Cañasgordas,Occidente,2023,0
+05138,Cañasgordas,Occidente,2024,0
+05138,Cañasgordas,Occidente,2025,0
+05142,Caracolí,Magdalena Medio,2015,0
+05142,Caracolí,Magdalena Medio,2016,<3
+05142,Caracolí,Magdalena Medio,2017,0
+05142,Caracolí,Magdalena Medio,2018,0
+05142,Caracolí,Magdalena Medio,2019,0
+05142,Caracolí,Magdalena Medio,2020,0
+05142,Caracolí,Magdalena Medio,2021,0
+05142,Caracolí,Magdalena Medio,2022,0
+05142,Caracolí,Magdalena Medio,2023,0
+05142,Caracolí,Magdalena Medio,2024,0
+05142,Caracolí,Magdalena Medio,2025,0
+05145,Caramanta,Suroeste,2015,0
+05145,Caramanta,Suroeste,2016,0
+05145,Caramanta,Suroeste,2017,0
+05145,Caramanta,Suroeste,2018,0
+05145,Caramanta,Suroeste,2019,0
+05145,Caramanta,Suroeste,2020,<3
+05145,Caramanta,Suroeste,2021,0
+05145,Caramanta,Suroeste,2022,0
+05145,Caramanta,Suroeste,2023,0
+05145,Caramanta,Suroeste,2024,0
+05145,Caramanta,Suroeste,2025,0
+05147,Carepa,Urabá,2015,<3
+05147,Carepa,Urabá,2016,0
+05147,Carepa,Urabá,2017,<3
+05147,Carepa,Urabá,2018,0
+05147,Carepa,Urabá,2019,<3
+05147,Carepa,Urabá,2020,0
+05147,Carepa,Urabá,2021,<3
+05147,Carepa,Urabá,2022,0
+05147,Carepa,Urabá,2023,<3
+05147,Carepa,Urabá,2024,0
+05147,Carepa,Urabá,2025,<3
+05148,El Carmen de Viboral,Oriente,2015,0
+05148,El Carmen de Viboral,Oriente,2016,0
+05148,El Carmen de Viboral,Oriente,2017,<3
+05148,El Carmen de Viboral,Oriente,2018,0
+05148,El Carmen de Viboral,Oriente,2019,0
+05148,El Carmen de Viboral,Oriente,2020,<3
+05148,El Carmen de Viboral,Oriente,2021,<3
+05148,El Carmen de Viboral,Oriente,2022,0
+05148,El Carmen de Viboral,Oriente,2023,3
+05148,El Carmen de Viboral,Oriente,2024,<3
+05148,El Carmen de Viboral,Oriente,2025,0
+05150,Carolina,Norte,2015,0
+05150,Carolina,Norte,2016,0
+05150,Carolina,Norte,2017,0
+05150,Carolina,Norte,2018,0
+05150,Carolina,Norte,2019,0
+05150,Carolina,Norte,2020,0
+05150,Carolina,Norte,2021,0
+05150,Carolina,Norte,2022,0
+05150,Carolina,Norte,2023,0
+05150,Carolina,Norte,2024,0
+05150,Carolina,Norte,2025,0
+05154,Caucasia,Bajo Cauca,2015,3
+05154,Caucasia,Bajo Cauca,2016,3
+05154,Caucasia,Bajo Cauca,2017,3
+05154,Caucasia,Bajo Cauca,2018,15
+05154,Caucasia,Bajo Cauca,2019,14
+05154,Caucasia,Bajo Cauca,2020,12
+05154,Caucasia,Bajo Cauca,2021,<3
+05154,Caucasia,Bajo Cauca,2022,<3
+05154,Caucasia,Bajo Cauca,2023,3
+05154,Caucasia,Bajo Cauca,2024,5
+05154,Caucasia,Bajo Cauca,2025,11
+05172,Chigorodó,Urabá,2015,0
+05172,Chigorodó,Urabá,2016,<3
+05172,Chigorodó,Urabá,2017,<3
+05172,Chigorodó,Urabá,2018,<3
+05172,Chigorodó,Urabá,2019,0
+05172,Chigorodó,Urabá,2020,<3
+05172,Chigorodó,Urabá,2021,0
+05172,Chigorodó,Urabá,2022,<3
+05172,Chigorodó,Urabá,2023,<3
+05172,Chigorodó,Urabá,2024,0
+05172,Chigorodó,Urabá,2025,<3
+05190,Cisneros,Nordeste,2015,<3
+05190,Cisneros,Nordeste,2016,0
+05190,Cisneros,Nordeste,2017,<3
+05190,Cisneros,Nordeste,2018,0
+05190,Cisneros,Nordeste,2019,<3
+05190,Cisneros,Nordeste,2020,0
+05190,Cisneros,Nordeste,2021,0
+05190,Cisneros,Nordeste,2022,0
+05190,Cisneros,Nordeste,2023,<3
+05190,Cisneros,Nordeste,2024,<3
+05190,Cisneros,Nordeste,2025,0
+05197,Cocorná,Oriente,2015,0
+05197,Cocorná,Oriente,2016,0
+05197,Cocorná,Oriente,2017,0
+05197,Cocorná,Oriente,2018,<3
+05197,Cocorná,Oriente,2019,0
+05197,Cocorná,Oriente,2020,0
+05197,Cocorná,Oriente,2021,0
+05197,Cocorná,Oriente,2022,0
+05197,Cocorná,Oriente,2023,0
+05197,Cocorná,Oriente,2024,0
+05197,Cocorná,Oriente,2025,0
+05206,Concepción,Oriente,2015,0
+05206,Concepción,Oriente,2016,0
+05206,Concepción,Oriente,2017,0
+05206,Concepción,Oriente,2018,0
+05206,Concepción,Oriente,2019,0
+05206,Concepción,Oriente,2020,0
+05206,Concepción,Oriente,2021,0
+05206,Concepción,Oriente,2022,0
+05206,Concepción,Oriente,2023,0
+05206,Concepción,Oriente,2024,0
+05206,Concepción,Oriente,2025,0
+05209,Concordia,Suroeste,2015,0
+05209,Concordia,Suroeste,2016,<3
+05209,Concordia,Suroeste,2017,0
+05209,Concordia,Suroeste,2018,0
+05209,Concordia,Suroeste,2019,<3
+05209,Concordia,Suroeste,2020,<3
+05209,Concordia,Suroeste,2021,<3
+05209,Concordia,Suroeste,2022,0
+05209,Concordia,Suroeste,2023,5
+05209,Concordia,Suroeste,2024,0
+05209,Concordia,Suroeste,2025,<3
+05212,Copacabana,Valle de Aburrá,2015,0
+05212,Copacabana,Valle de Aburrá,2016,<3
+05212,Copacabana,Valle de Aburrá,2017,<3
+05212,Copacabana,Valle de Aburrá,2018,<3
+05212,Copacabana,Valle de Aburrá,2019,<3
+05212,Copacabana,Valle de Aburrá,2020,<3
+05212,Copacabana,Valle de Aburrá,2021,3
+05212,Copacabana,Valle de Aburrá,2022,<3
+05212,Copacabana,Valle de Aburrá,2023,<3
+05212,Copacabana,Valle de Aburrá,2024,3
+05212,Copacabana,Valle de Aburrá,2025,0
+05234,Dabeiba,Occidente,2015,0
+05234,Dabeiba,Occidente,2016,0
+05234,Dabeiba,Occidente,2017,0
+05234,Dabeiba,Occidente,2018,0
+05234,Dabeiba,Occidente,2019,<3
+05234,Dabeiba,Occidente,2020,0
+05234,Dabeiba,Occidente,2021,3
+05234,Dabeiba,Occidente,2022,0
+05234,Dabeiba,Occidente,2023,<3
+05234,Dabeiba,Occidente,2024,0
+05234,Dabeiba,Occidente,2025,0
+05237,Donmatías,Norte,2015,0
+05237,Donmatías,Norte,2016,0
+05237,Donmatías,Norte,2017,0
+05237,Donmatías,Norte,2018,0
+05237,Donmatías,Norte,2019,0
+05237,Donmatías,Norte,2020,0
+05237,Donmatías,Norte,2021,<3
+05237,Donmatías,Norte,2022,0
+05237,Donmatías,Norte,2023,0
+05237,Donmatías,Norte,2024,0
+05237,Donmatías,Norte,2025,0
+05240,Ebéjico,Occidente,2015,0
+05240,Ebéjico,Occidente,2016,0
+05240,Ebéjico,Occidente,2017,0
+05240,Ebéjico,Occidente,2018,0
+05240,Ebéjico,Occidente,2019,<3
+05240,Ebéjico,Occidente,2020,<3
+05240,Ebéjico,Occidente,2021,0
+05240,Ebéjico,Occidente,2022,0
+05240,Ebéjico,Occidente,2023,<3
+05240,Ebéjico,Occidente,2024,0
+05240,Ebéjico,Occidente,2025,0
+05250,El Bagre,Bajo Cauca,2015,3
+05250,El Bagre,Bajo Cauca,2016,0
+05250,El Bagre,Bajo Cauca,2017,0
+05250,El Bagre,Bajo Cauca,2018,3
+05250,El Bagre,Bajo Cauca,2019,<3
+05250,El Bagre,Bajo Cauca,2020,5
+05250,El Bagre,Bajo Cauca,2021,<3
+05250,El Bagre,Bajo Cauca,2022,6
+05250,El Bagre,Bajo Cauca,2023,<3
+05250,El Bagre,Bajo Cauca,2024,3
+05250,El Bagre,Bajo Cauca,2025,<3
+05264,Entrerríos,Norte,2015,<3
+05264,Entrerríos,Norte,2016,<3
+05264,Entrerríos,Norte,2017,0
+05264,Entrerríos,Norte,2018,0
+05264,Entrerríos,Norte,2019,<3
+05264,Entrerríos,Norte,2020,0
+05264,Entrerríos,Norte,2021,0
+05264,Entrerríos,Norte,2022,0
+05264,Entrerríos,Norte,2023,<3
+05264,Entrerríos,Norte,2024,0
+05264,Entrerríos,Norte,2025,<3
+05266,Envigado,Valle de Aburrá,2015,0
+05266,Envigado,Valle de Aburrá,2016,<3
+05266,Envigado,Valle de Aburrá,2017,<3
+05266,Envigado,Valle de Aburrá,2018,<3
+05266,Envigado,Valle de Aburrá,2019,0
+05266,Envigado,Valle de Aburrá,2020,<3
+05266,Envigado,Valle de Aburrá,2021,0
+05266,Envigado,Valle de Aburrá,2022,0
+05266,Envigado,Valle de Aburrá,2023,<3
+05266,Envigado,Valle de Aburrá,2024,4
+05266,Envigado,Valle de Aburrá,2025,<3
+05282,Fredonia,Suroeste,2015,3
+05282,Fredonia,Suroeste,2016,<3
+05282,Fredonia,Suroeste,2017,0
+05282,Fredonia,Suroeste,2018,4
+05282,Fredonia,Suroeste,2019,<3
+05282,Fredonia,Suroeste,2020,0
+05282,Fredonia,Suroeste,2021,0
+05282,Fredonia,Suroeste,2022,0
+05282,Fredonia,Suroeste,2023,0
+05282,Fredonia,Suroeste,2024,<3
+05282,Fredonia,Suroeste,2025,0
+05284,Frontino,Occidente,2015,<3
+05284,Frontino,Occidente,2016,0
+05284,Frontino,Occidente,2017,<3
+05284,Frontino,Occidente,2018,0
+05284,Frontino,Occidente,2019,<3
+05284,Frontino,Occidente,2020,<3
+05284,Frontino,Occidente,2021,<3
+05284,Frontino,Occidente,2022,<3
+05284,Frontino,Occidente,2023,0
+05284,Frontino,Occidente,2024,0
+05284,Frontino,Occidente,2025,0
+05306,Giraldo,Occidente,2015,0
+05306,Giraldo,Occidente,2016,0
+05306,Giraldo,Occidente,2017,0
+05306,Giraldo,Occidente,2018,0
+05306,Giraldo,Occidente,2019,0
+05306,Giraldo,Occidente,2020,0
+05306,Giraldo,Occidente,2021,0
+05306,Giraldo,Occidente,2022,0
+05306,Giraldo,Occidente,2023,0
+05306,Giraldo,Occidente,2024,0
+05306,Giraldo,Occidente,2025,0
+05308,Girardota,Valle de Aburrá,2015,<3
+05308,Girardota,Valle de Aburrá,2016,<3
+05308,Girardota,Valle de Aburrá,2017,<3
+05308,Girardota,Valle de Aburrá,2018,0
+05308,Girardota,Valle de Aburrá,2019,0
+05308,Girardota,Valle de Aburrá,2020,0
+05308,Girardota,Valle de Aburrá,2021,<3
+05308,Girardota,Valle de Aburrá,2022,0
+05308,Girardota,Valle de Aburrá,2023,<3
+05308,Girardota,Valle de Aburrá,2024,<3
+05308,Girardota,Valle de Aburrá,2025,0
+05310,Gómez Plata,Norte,2015,<3
+05310,Gómez Plata,Norte,2016,0
+05310,Gómez Plata,Norte,2017,0
+05310,Gómez Plata,Norte,2018,<3
+05310,Gómez Plata,Norte,2019,0
+05310,Gómez Plata,Norte,2020,0
+05310,Gómez Plata,Norte,2021,0
+05310,Gómez Plata,Norte,2022,0
+05310,Gómez Plata,Norte,2023,<3
+05310,Gómez Plata,Norte,2024,0
+05310,Gómez Plata,Norte,2025,0
+05313,Granada,Oriente,2015,0
+05313,Granada,Oriente,2016,0
+05313,Granada,Oriente,2017,0
+05313,Granada,Oriente,2018,0
+05313,Granada,Oriente,2019,0
+05313,Granada,Oriente,2020,0
+05313,Granada,Oriente,2021,0
+05313,Granada,Oriente,2022,0
+05313,Granada,Oriente,2023,<3
+05313,Granada,Oriente,2024,0
+05313,Granada,Oriente,2025,0
+05315,Guadalupe,Norte,2015,0
+05315,Guadalupe,Norte,2016,0
+05315,Guadalupe,Norte,2017,0
+05315,Guadalupe,Norte,2018,0
+05315,Guadalupe,Norte,2019,0
+05315,Guadalupe,Norte,2020,0
+05315,Guadalupe,Norte,2021,<3
+05315,Guadalupe,Norte,2022,0
+05315,Guadalupe,Norte,2023,0
+05315,Guadalupe,Norte,2024,0
+05315,Guadalupe,Norte,2025,0
+05318,Guarne,Oriente,2015,0
+05318,Guarne,Oriente,2016,0
+05318,Guarne,Oriente,2017,0
+05318,Guarne,Oriente,2018,0
+05318,Guarne,Oriente,2019,<3
+05318,Guarne,Oriente,2020,0
+05318,Guarne,Oriente,2021,0
+05318,Guarne,Oriente,2022,<3
+05318,Guarne,Oriente,2023,<3
+05318,Guarne,Oriente,2024,<3
+05318,Guarne,Oriente,2025,<3
+05321,Guatapé,Oriente,2015,<3
+05321,Guatapé,Oriente,2016,0
+05321,Guatapé,Oriente,2017,0
+05321,Guatapé,Oriente,2018,0
+05321,Guatapé,Oriente,2019,0
+05321,Guatapé,Oriente,2020,0
+05321,Guatapé,Oriente,2021,0
+05321,Guatapé,Oriente,2022,0
+05321,Guatapé,Oriente,2023,0
+05321,Guatapé,Oriente,2024,0
+05321,Guatapé,Oriente,2025,0
+05347,Heliconia,Occidente,2015,0
+05347,Heliconia,Occidente,2016,0
+05347,Heliconia,Occidente,2017,0
+05347,Heliconia,Occidente,2018,0
+05347,Heliconia,Occidente,2019,0
+05347,Heliconia,Occidente,2020,0
+05347,Heliconia,Occidente,2021,0
+05347,Heliconia,Occidente,2022,0
+05347,Heliconia,Occidente,2023,0
+05347,Heliconia,Occidente,2024,0
+05347,Heliconia,Occidente,2025,0
+05353,Hispania,Suroeste,2015,0
+05353,Hispania,Suroeste,2016,0
+05353,Hispania,Suroeste,2017,0
+05353,Hispania,Suroeste,2018,<3
+05353,Hispania,Suroeste,2019,0
+05353,Hispania,Suroeste,2020,0
+05353,Hispania,Suroeste,2021,0
+05353,Hispania,Suroeste,2022,0
+05353,Hispania,Suroeste,2023,0
+05353,Hispania,Suroeste,2024,<3
+05353,Hispania,Suroeste,2025,0
+05360,Itagüí,Valle de Aburrá,2015,4
+05360,Itagüí,Valle de Aburrá,2016,3
+05360,Itagüí,Valle de Aburrá,2017,5
+05360,Itagüí,Valle de Aburrá,2018,5
+05360,Itagüí,Valle de Aburrá,2019,8
+05360,Itagüí,Valle de Aburrá,2020,<3
+05360,Itagüí,Valle de Aburrá,2021,3
+05360,Itagüí,Valle de Aburrá,2022,<3
+05360,Itagüí,Valle de Aburrá,2023,4
+05360,Itagüí,Valle de Aburrá,2024,<3
+05360,Itagüí,Valle de Aburrá,2025,<3
+05361,Ituango,Norte,2015,3
+05361,Ituango,Norte,2016,0
+05361,Ituango,Norte,2017,0
+05361,Ituango,Norte,2018,5
+05361,Ituango,Norte,2019,3
+05361,Ituango,Norte,2020,<3
+05361,Ituango,Norte,2021,<3
+05361,Ituango,Norte,2022,0
+05361,Ituango,Norte,2023,5
+05361,Ituango,Norte,2024,0
+05361,Ituango,Norte,2025,0
+05364,Jardín,Suroeste,2015,<3
+05364,Jardín,Suroeste,2016,0
+05364,Jardín,Suroeste,2017,<3
+05364,Jardín,Suroeste,2018,<3
+05364,Jardín,Suroeste,2019,0
+05364,Jardín,Suroeste,2020,<3
+05364,Jardín,Suroeste,2021,<3
+05364,Jardín,Suroeste,2022,0
+05364,Jardín,Suroeste,2023,0
+05364,Jardín,Suroeste,2024,0
+05364,Jardín,Suroeste,2025,0
+05368,Jericó,Suroeste,2015,0
+05368,Jericó,Suroeste,2016,0
+05368,Jericó,Suroeste,2017,0
+05368,Jericó,Suroeste,2018,0
+05368,Jericó,Suroeste,2019,0
+05368,Jericó,Suroeste,2020,<3
+05368,Jericó,Suroeste,2021,<3
+05368,Jericó,Suroeste,2022,0
+05368,Jericó,Suroeste,2023,0
+05368,Jericó,Suroeste,2024,0
+05368,Jericó,Suroeste,2025,<3
+05376,La Ceja,Oriente,2015,0
+05376,La Ceja,Oriente,2016,0
+05376,La Ceja,Oriente,2017,0
+05376,La Ceja,Oriente,2018,0
+05376,La Ceja,Oriente,2019,0
+05376,La Ceja,Oriente,2020,0
+05376,La Ceja,Oriente,2021,0
+05376,La Ceja,Oriente,2022,<3
+05376,La Ceja,Oriente,2023,0
+05376,La Ceja,Oriente,2024,<3
+05376,La Ceja,Oriente,2025,0
+05380,La Estrella,Valle de Aburrá,2015,<3
+05380,La Estrella,Valle de Aburrá,2016,0
+05380,La Estrella,Valle de Aburrá,2017,3
+05380,La Estrella,Valle de Aburrá,2018,<3
+05380,La Estrella,Valle de Aburrá,2019,<3
+05380,La Estrella,Valle de Aburrá,2020,3
+05380,La Estrella,Valle de Aburrá,2021,<3
+05380,La Estrella,Valle de Aburrá,2022,0
+05380,La Estrella,Valle de Aburrá,2023,0
+05380,La Estrella,Valle de Aburrá,2024,0
+05380,La Estrella,Valle de Aburrá,2025,<3
+05390,La Pintada,Suroeste,2015,0
+05390,La Pintada,Suroeste,2016,3
+05390,La Pintada,Suroeste,2017,<3
+05390,La Pintada,Suroeste,2018,0
+05390,La Pintada,Suroeste,2019,<3
+05390,La Pintada,Suroeste,2020,0
+05390,La Pintada,Suroeste,2021,<3
+05390,La Pintada,Suroeste,2022,0
+05390,La Pintada,Suroeste,2023,0
+05390,La Pintada,Suroeste,2024,0
+05390,La Pintada,Suroeste,2025,0
+05400,La Unión,Oriente,2015,0
+05400,La Unión,Oriente,2016,0
+05400,La Unión,Oriente,2017,<3
+05400,La Unión,Oriente,2018,0
+05400,La Unión,Oriente,2019,0
+05400,La Unión,Oriente,2020,0
+05400,La Unión,Oriente,2021,<3
+05400,La Unión,Oriente,2022,<3
+05400,La Unión,Oriente,2023,0
+05400,La Unión,Oriente,2024,<3
+05400,La Unión,Oriente,2025,<3
+05411,Liborina,Occidente,2015,0
+05411,Liborina,Occidente,2016,0
+05411,Liborina,Occidente,2017,0
+05411,Liborina,Occidente,2018,<3
+05411,Liborina,Occidente,2019,<3
+05411,Liborina,Occidente,2020,0
+05411,Liborina,Occidente,2021,0
+05411,Liborina,Occidente,2022,0
+05411,Liborina,Occidente,2023,0
+05411,Liborina,Occidente,2024,0
+05411,Liborina,Occidente,2025,0
+05425,Maceo,Magdalena Medio,2015,<3
+05425,Maceo,Magdalena Medio,2016,0
+05425,Maceo,Magdalena Medio,2017,0
+05425,Maceo,Magdalena Medio,2018,0
+05425,Maceo,Magdalena Medio,2019,0
+05425,Maceo,Magdalena Medio,2020,<3
+05425,Maceo,Magdalena Medio,2021,0
+05425,Maceo,Magdalena Medio,2022,<3
+05425,Maceo,Magdalena Medio,2023,<3
+05425,Maceo,Magdalena Medio,2024,0
+05425,Maceo,Magdalena Medio,2025,0
+05440,Marinilla,Oriente,2015,0
+05440,Marinilla,Oriente,2016,<3
+05440,Marinilla,Oriente,2017,<3
+05440,Marinilla,Oriente,2018,0
+05440,Marinilla,Oriente,2019,<3
+05440,Marinilla,Oriente,2020,0
+05440,Marinilla,Oriente,2021,<3
+05440,Marinilla,Oriente,2022,<3
+05440,Marinilla,Oriente,2023,<3
+05440,Marinilla,Oriente,2024,3
+05440,Marinilla,Oriente,2025,0
+05467,Montebello,Suroeste,2015,0
+05467,Montebello,Suroeste,2016,0
+05467,Montebello,Suroeste,2017,0
+05467,Montebello,Suroeste,2018,0
+05467,Montebello,Suroeste,2019,0
+05467,Montebello,Suroeste,2020,0
+05467,Montebello,Suroeste,2021,<3
+05467,Montebello,Suroeste,2022,0
+05467,Montebello,Suroeste,2023,0
+05467,Montebello,Suroeste,2024,<3
+05467,Montebello,Suroeste,2025,0
+05475,Murindó,Urabá,2015,0
+05475,Murindó,Urabá,2016,0
+05475,Murindó,Urabá,2017,0
+05475,Murindó,Urabá,2018,0
+05475,Murindó,Urabá,2019,0
+05475,Murindó,Urabá,2020,0
+05475,Murindó,Urabá,2021,0
+05475,Murindó,Urabá,2022,0
+05475,Murindó,Urabá,2023,0
+05475,Murindó,Urabá,2024,0
+05475,Murindó,Urabá,2025,0
+05480,Mutatá,Urabá,2015,0
+05480,Mutatá,Urabá,2016,<3
+05480,Mutatá,Urabá,2017,<3
+05480,Mutatá,Urabá,2018,<3
+05480,Mutatá,Urabá,2019,0
+05480,Mutatá,Urabá,2020,<3
+05480,Mutatá,Urabá,2021,0
+05480,Mutatá,Urabá,2022,0
+05480,Mutatá,Urabá,2023,<3
+05480,Mutatá,Urabá,2024,0
+05480,Mutatá,Urabá,2025,0
+05483,Nariño,Oriente,2015,0
+05483,Nariño,Oriente,2016,0
+05483,Nariño,Oriente,2017,0
+05483,Nariño,Oriente,2018,0
+05483,Nariño,Oriente,2019,<3
+05483,Nariño,Oriente,2020,<3
+05483,Nariño,Oriente,2021,<3
+05483,Nariño,Oriente,2022,0
+05483,Nariño,Oriente,2023,0
+05483,Nariño,Oriente,2024,<3
+05483,Nariño,Oriente,2025,0
+05490,Necoclí,Urabá,2015,0
+05490,Necoclí,Urabá,2016,0
+05490,Necoclí,Urabá,2017,<3
+05490,Necoclí,Urabá,2018,0
+05490,Necoclí,Urabá,2019,0
+05490,Necoclí,Urabá,2020,<3
+05490,Necoclí,Urabá,2021,0
+05490,Necoclí,Urabá,2022,<3
+05490,Necoclí,Urabá,2023,0
+05490,Necoclí,Urabá,2024,0
+05490,Necoclí,Urabá,2025,<3
+05495,Nechí,Bajo Cauca,2015,<3
+05495,Nechí,Bajo Cauca,2016,0
+05495,Nechí,Bajo Cauca,2017,<3
+05495,Nechí,Bajo Cauca,2018,<3
+05495,Nechí,Bajo Cauca,2019,<3
+05495,Nechí,Bajo Cauca,2020,<3
+05495,Nechí,Bajo Cauca,2021,<3
+05495,Nechí,Bajo Cauca,2022,<3
+05495,Nechí,Bajo Cauca,2023,<3
+05495,Nechí,Bajo Cauca,2024,<3
+05495,Nechí,Bajo Cauca,2025,0
+05501,Olaya,Occidente,2015,0
+05501,Olaya,Occidente,2016,0
+05501,Olaya,Occidente,2017,0
+05501,Olaya,Occidente,2018,0
+05501,Olaya,Occidente,2019,0
+05501,Olaya,Occidente,2020,0
+05501,Olaya,Occidente,2021,0
+05501,Olaya,Occidente,2022,0
+05501,Olaya,Occidente,2023,0
+05501,Olaya,Occidente,2024,0
+05501,Olaya,Occidente,2025,0
+05541,El Peñol,Oriente,2015,<3
+05541,El Peñol,Oriente,2016,<3
+05541,El Peñol,Oriente,2017,<3
+05541,El Peñol,Oriente,2018,0
+05541,El Peñol,Oriente,2019,0
+05541,El Peñol,Oriente,2020,0
+05541,El Peñol,Oriente,2021,0
+05541,El Peñol,Oriente,2022,<3
+05541,El Peñol,Oriente,2023,0
+05541,El Peñol,Oriente,2024,0
+05541,El Peñol,Oriente,2025,0
+05543,Peque,Occidente,2015,0
+05543,Peque,Occidente,2016,0
+05543,Peque,Occidente,2017,0
+05543,Peque,Occidente,2018,<3
+05543,Peque,Occidente,2019,0
+05543,Peque,Occidente,2020,0
+05543,Peque,Occidente,2021,<3
+05543,Peque,Occidente,2022,<3
+05543,Peque,Occidente,2023,0
+05543,Peque,Occidente,2024,0
+05543,Peque,Occidente,2025,0
+05576,Pueblorrico,Suroeste,2015,0
+05576,Pueblorrico,Suroeste,2016,0
+05576,Pueblorrico,Suroeste,2017,0
+05576,Pueblorrico,Suroeste,2018,0
+05576,Pueblorrico,Suroeste,2019,0
+05576,Pueblorrico,Suroeste,2020,0
+05576,Pueblorrico,Suroeste,2021,0
+05576,Pueblorrico,Suroeste,2022,0
+05576,Pueblorrico,Suroeste,2023,0
+05576,Pueblorrico,Suroeste,2024,0
+05576,Pueblorrico,Suroeste,2025,0
+05579,Puerto Berrío,Magdalena Medio,2015,<3
+05579,Puerto Berrío,Magdalena Medio,2016,4
+05579,Puerto Berrío,Magdalena Medio,2017,<3
+05579,Puerto Berrío,Magdalena Medio,2018,<3
+05579,Puerto Berrío,Magdalena Medio,2019,0
+05579,Puerto Berrío,Magdalena Medio,2020,0
+05579,Puerto Berrío,Magdalena Medio,2021,<3
+05579,Puerto Berrío,Magdalena Medio,2022,3
+05579,Puerto Berrío,Magdalena Medio,2023,<3
+05579,Puerto Berrío,Magdalena Medio,2024,<3
+05579,Puerto Berrío,Magdalena Medio,2025,<3
+05585,Puerto Nare,Magdalena Medio,2015,0
+05585,Puerto Nare,Magdalena Medio,2016,<3
+05585,Puerto Nare,Magdalena Medio,2017,<3
+05585,Puerto Nare,Magdalena Medio,2018,0
+05585,Puerto Nare,Magdalena Medio,2019,0
+05585,Puerto Nare,Magdalena Medio,2020,0
+05585,Puerto Nare,Magdalena Medio,2021,<3
+05585,Puerto Nare,Magdalena Medio,2022,<3
+05585,Puerto Nare,Magdalena Medio,2023,<3
+05585,Puerto Nare,Magdalena Medio,2024,0
+05585,Puerto Nare,Magdalena Medio,2025,0
+05591,Puerto Triunfo,Magdalena Medio,2015,<3
+05591,Puerto Triunfo,Magdalena Medio,2016,<3
+05591,Puerto Triunfo,Magdalena Medio,2017,0
+05591,Puerto Triunfo,Magdalena Medio,2018,0
+05591,Puerto Triunfo,Magdalena Medio,2019,<3
+05591,Puerto Triunfo,Magdalena Medio,2020,0
+05591,Puerto Triunfo,Magdalena Medio,2021,<3
+05591,Puerto Triunfo,Magdalena Medio,2022,0
+05591,Puerto Triunfo,Magdalena Medio,2023,0
+05591,Puerto Triunfo,Magdalena Medio,2024,0
+05591,Puerto Triunfo,Magdalena Medio,2025,0
+05604,Remedios,Nordeste,2015,<3
+05604,Remedios,Nordeste,2016,<3
+05604,Remedios,Nordeste,2017,3
+05604,Remedios,Nordeste,2018,4
+05604,Remedios,Nordeste,2019,3
+05604,Remedios,Nordeste,2020,3
+05604,Remedios,Nordeste,2021,5
+05604,Remedios,Nordeste,2022,4
+05604,Remedios,Nordeste,2023,<3
+05604,Remedios,Nordeste,2024,3
+05604,Remedios,Nordeste,2025,0
+05607,El Retiro,Oriente,2015,0
+05607,El Retiro,Oriente,2016,0
+05607,El Retiro,Oriente,2017,0
+05607,El Retiro,Oriente,2018,0
+05607,El Retiro,Oriente,2019,<3
+05607,El Retiro,Oriente,2020,0
+05607,El Retiro,Oriente,2021,0
+05607,El Retiro,Oriente,2022,<3
+05607,El Retiro,Oriente,2023,<3
+05607,El Retiro,Oriente,2024,<3
+05607,El Retiro,Oriente,2025,0
+05615,Rionegro,Oriente,2015,5
+05615,Rionegro,Oriente,2016,5
+05615,Rionegro,Oriente,2017,<3
+05615,Rionegro,Oriente,2018,<3
+05615,Rionegro,Oriente,2019,0
+05615,Rionegro,Oriente,2020,3
+05615,Rionegro,Oriente,2021,0
+05615,Rionegro,Oriente,2022,3
+05615,Rionegro,Oriente,2023,<3
+05615,Rionegro,Oriente,2024,3
+05615,Rionegro,Oriente,2025,<3
+05628,Sabanalarga,Occidente,2015,0
+05628,Sabanalarga,Occidente,2016,0
+05628,Sabanalarga,Occidente,2017,0
+05628,Sabanalarga,Occidente,2018,0
+05628,Sabanalarga,Occidente,2019,0
+05628,Sabanalarga,Occidente,2020,0
+05628,Sabanalarga,Occidente,2021,0
+05628,Sabanalarga,Occidente,2022,0
+05628,Sabanalarga,Occidente,2023,0
+05628,Sabanalarga,Occidente,2024,0
+05628,Sabanalarga,Occidente,2025,<3
+05631,Sabaneta,Valle de Aburrá,2015,<3
+05631,Sabaneta,Valle de Aburrá,2016,0
+05631,Sabaneta,Valle de Aburrá,2017,<3
+05631,Sabaneta,Valle de Aburrá,2018,0
+05631,Sabaneta,Valle de Aburrá,2019,3
+05631,Sabaneta,Valle de Aburrá,2020,0
+05631,Sabaneta,Valle de Aburrá,2021,0
+05631,Sabaneta,Valle de Aburrá,2022,<3
+05631,Sabaneta,Valle de Aburrá,2023,<3
+05631,Sabaneta,Valle de Aburrá,2024,<3
+05631,Sabaneta,Valle de Aburrá,2025,0
+05642,Salgar,Suroeste,2015,4
+05642,Salgar,Suroeste,2016,4
+05642,Salgar,Suroeste,2017,5
+05642,Salgar,Suroeste,2018,0
+05642,Salgar,Suroeste,2019,<3
+05642,Salgar,Suroeste,2020,3
+05642,Salgar,Suroeste,2021,<3
+05642,Salgar,Suroeste,2022,<3
+05642,Salgar,Suroeste,2023,0
+05642,Salgar,Suroeste,2024,<3
+05642,Salgar,Suroeste,2025,<3
+05647,San Andrés de Cuerquia,Norte,2015,<3
+05647,San Andrés de Cuerquia,Norte,2016,<3
+05647,San Andrés de Cuerquia,Norte,2017,0
+05647,San Andrés de Cuerquia,Norte,2018,0
+05647,San Andrés de Cuerquia,Norte,2019,0
+05647,San Andrés de Cuerquia,Norte,2020,0
+05647,San Andrés de Cuerquia,Norte,2021,0
+05647,San Andrés de Cuerquia,Norte,2022,<3
+05647,San Andrés de Cuerquia,Norte,2023,0
+05647,San Andrés de Cuerquia,Norte,2024,<3
+05647,San Andrés de Cuerquia,Norte,2025,<3
+05649,San Carlos,Oriente,2015,<3
+05649,San Carlos,Oriente,2016,0
+05649,San Carlos,Oriente,2017,0
+05649,San Carlos,Oriente,2018,0
+05649,San Carlos,Oriente,2019,0
+05649,San Carlos,Oriente,2020,0
+05649,San Carlos,Oriente,2021,0
+05649,San Carlos,Oriente,2022,0
+05649,San Carlos,Oriente,2023,0
+05649,San Carlos,Oriente,2024,0
+05649,San Carlos,Oriente,2025,0
+05652,San Francisco,Oriente,2015,<3
+05652,San Francisco,Oriente,2016,0
+05652,San Francisco,Oriente,2017,0
+05652,San Francisco,Oriente,2018,0
+05652,San Francisco,Oriente,2019,0
+05652,San Francisco,Oriente,2020,0
+05652,San Francisco,Oriente,2021,0
+05652,San Francisco,Oriente,2022,<3
+05652,San Francisco,Oriente,2023,0
+05652,San Francisco,Oriente,2024,0
+05652,San Francisco,Oriente,2025,0
+05656,San Jerónimo,Occidente,2015,<3
+05656,San Jerónimo,Occidente,2016,<3
+05656,San Jerónimo,Occidente,2017,0
+05656,San Jerónimo,Occidente,2018,<3
+05656,San Jerónimo,Occidente,2019,<3
+05656,San Jerónimo,Occidente,2020,0
+05656,San Jerónimo,Occidente,2021,0
+05656,San Jerónimo,Occidente,2022,<3
+05656,San Jerónimo,Occidente,2023,0
+05656,San Jerónimo,Occidente,2024,<3
+05656,San Jerónimo,Occidente,2025,0
+05658,San José de La Montaña,Norte,2015,0
+05658,San José de La Montaña,Norte,2016,0
+05658,San José de La Montaña,Norte,2017,0
+05658,San José de La Montaña,Norte,2018,0
+05658,San José de La Montaña,Norte,2019,0
+05658,San José de La Montaña,Norte,2020,0
+05658,San José de La Montaña,Norte,2021,0
+05658,San José de La Montaña,Norte,2022,0
+05658,San José de La Montaña,Norte,2023,0
+05658,San José de La Montaña,Norte,2024,<3
+05658,San José de La Montaña,Norte,2025,0
+05659,San Juan de Urabá,Urabá,2015,0
+05659,San Juan de Urabá,Urabá,2016,0
+05659,San Juan de Urabá,Urabá,2017,0
+05659,San Juan de Urabá,Urabá,2018,<3
+05659,San Juan de Urabá,Urabá,2019,0
+05659,San Juan de Urabá,Urabá,2020,0
+05659,San Juan de Urabá,Urabá,2021,0
+05659,San Juan de Urabá,Urabá,2022,0
+05659,San Juan de Urabá,Urabá,2023,0
+05659,San Juan de Urabá,Urabá,2024,0
+05659,San Juan de Urabá,Urabá,2025,0
+05660,San Luis,Oriente,2015,<3
+05660,San Luis,Oriente,2016,0
+05660,San Luis,Oriente,2017,0
+05660,San Luis,Oriente,2018,3
+05660,San Luis,Oriente,2019,0
+05660,San Luis,Oriente,2020,0
+05660,San Luis,Oriente,2021,<3
+05660,San Luis,Oriente,2022,<3
+05660,San Luis,Oriente,2023,0
+05660,San Luis,Oriente,2024,0
+05660,San Luis,Oriente,2025,0
+05664,San Pedro de Los Milagros,Norte,2015,<3
+05664,San Pedro de Los Milagros,Norte,2016,<3
+05664,San Pedro de Los Milagros,Norte,2017,0
+05664,San Pedro de Los Milagros,Norte,2018,<3
+05664,San Pedro de Los Milagros,Norte,2019,0
+05664,San Pedro de Los Milagros,Norte,2020,<3
+05664,San Pedro de Los Milagros,Norte,2021,0
+05664,San Pedro de Los Milagros,Norte,2022,0
+05664,San Pedro de Los Milagros,Norte,2023,0
+05664,San Pedro de Los Milagros,Norte,2024,<3
+05664,San Pedro de Los Milagros,Norte,2025,<3
+05665,San Pedro de Urabá,Urabá,2015,0
+05665,San Pedro de Urabá,Urabá,2016,0
+05665,San Pedro de Urabá,Urabá,2017,<3
+05665,San Pedro de Urabá,Urabá,2018,<3
+05665,San Pedro de Urabá,Urabá,2019,0
+05665,San Pedro de Urabá,Urabá,2020,0
+05665,San Pedro de Urabá,Urabá,2021,0
+05665,San Pedro de Urabá,Urabá,2022,<3
+05665,San Pedro de Urabá,Urabá,2023,0
+05665,San Pedro de Urabá,Urabá,2024,<3
+05665,San Pedro de Urabá,Urabá,2025,<3
+05667,San Rafael,Oriente,2015,<3
+05667,San Rafael,Oriente,2016,<3
+05667,San Rafael,Oriente,2017,0
+05667,San Rafael,Oriente,2018,0
+05667,San Rafael,Oriente,2019,0
+05667,San Rafael,Oriente,2020,<3
+05667,San Rafael,Oriente,2021,0
+05667,San Rafael,Oriente,2022,0
+05667,San Rafael,Oriente,2023,<3
+05667,San Rafael,Oriente,2024,<3
+05667,San Rafael,Oriente,2025,0
+05670,San Roque,Nordeste,2015,0
+05670,San Roque,Nordeste,2016,0
+05670,San Roque,Nordeste,2017,0
+05670,San Roque,Nordeste,2018,0
+05670,San Roque,Nordeste,2019,<3
+05670,San Roque,Nordeste,2020,4
+05670,San Roque,Nordeste,2021,0
+05670,San Roque,Nordeste,2022,<3
+05670,San Roque,Nordeste,2023,<3
+05670,San Roque,Nordeste,2024,0
+05670,San Roque,Nordeste,2025,<3
+05674,San Vicente,Oriente,2015,<3
+05674,San Vicente,Oriente,2016,0
+05674,San Vicente,Oriente,2017,<3
+05674,San Vicente,Oriente,2018,0
+05674,San Vicente,Oriente,2019,<3
+05674,San Vicente,Oriente,2020,0
+05674,San Vicente,Oriente,2021,0
+05674,San Vicente,Oriente,2022,0
+05674,San Vicente,Oriente,2023,<3
+05674,San Vicente,Oriente,2024,0
+05674,San Vicente,Oriente,2025,0
+05679,Santa Bárbara,Suroeste,2015,3
+05679,Santa Bárbara,Suroeste,2016,<3
+05679,Santa Bárbara,Suroeste,2017,<3
+05679,Santa Bárbara,Suroeste,2018,3
+05679,Santa Bárbara,Suroeste,2019,3
+05679,Santa Bárbara,Suroeste,2020,0
+05679,Santa Bárbara,Suroeste,2021,<3
+05679,Santa Bárbara,Suroeste,2022,3
+05679,Santa Bárbara,Suroeste,2023,0
+05679,Santa Bárbara,Suroeste,2024,<3
+05679,Santa Bárbara,Suroeste,2025,3
+05686,Santa Rosa de Osos,Norte,2015,<3
+05686,Santa Rosa de Osos,Norte,2016,0
+05686,Santa Rosa de Osos,Norte,2017,<3
+05686,Santa Rosa de Osos,Norte,2018,<3
+05686,Santa Rosa de Osos,Norte,2019,<3
+05686,Santa Rosa de Osos,Norte,2020,0
+05686,Santa Rosa de Osos,Norte,2021,<3
+05686,Santa Rosa de Osos,Norte,2022,<3
+05686,Santa Rosa de Osos,Norte,2023,<3
+05686,Santa Rosa de Osos,Norte,2024,<3
+05686,Santa Rosa de Osos,Norte,2025,3
+05690,Santo Domingo,Nordeste,2015,0
+05690,Santo Domingo,Nordeste,2016,<3
+05690,Santo Domingo,Nordeste,2017,0
+05690,Santo Domingo,Nordeste,2018,0
+05690,Santo Domingo,Nordeste,2019,0
+05690,Santo Domingo,Nordeste,2020,0
+05690,Santo Domingo,Nordeste,2021,0
+05690,Santo Domingo,Nordeste,2022,<3
+05690,Santo Domingo,Nordeste,2023,0
+05690,Santo Domingo,Nordeste,2024,0
+05690,Santo Domingo,Nordeste,2025,0
+05697,El Santuario,Oriente,2015,0
+05697,El Santuario,Oriente,2016,0
+05697,El Santuario,Oriente,2017,<3
+05697,El Santuario,Oriente,2018,0
+05697,El Santuario,Oriente,2019,0
+05697,El Santuario,Oriente,2020,0
+05697,El Santuario,Oriente,2021,0
+05697,El Santuario,Oriente,2022,<3
+05697,El Santuario,Oriente,2023,<3
+05697,El Santuario,Oriente,2024,<3
+05697,El Santuario,Oriente,2025,0
+05736,Segovia,Nordeste,2015,4
+05736,Segovia,Nordeste,2016,3
+05736,Segovia,Nordeste,2017,6
+05736,Segovia,Nordeste,2018,<3
+05736,Segovia,Nordeste,2019,<3
+05736,Segovia,Nordeste,2020,4
+05736,Segovia,Nordeste,2021,<3
+05736,Segovia,Nordeste,2022,3
+05736,Segovia,Nordeste,2023,<3
+05736,Segovia,Nordeste,2024,<3
+05736,Segovia,Nordeste,2025,0
+05756,Sonsón,Oriente,2015,<3
+05756,Sonsón,Oriente,2016,<3
+05756,Sonsón,Oriente,2017,0
+05756,Sonsón,Oriente,2018,<3
+05756,Sonsón,Oriente,2019,0
+05756,Sonsón,Oriente,2020,0
+05756,Sonsón,Oriente,2021,<3
+05756,Sonsón,Oriente,2022,<3
+05756,Sonsón,Oriente,2023,0
+05756,Sonsón,Oriente,2024,0
+05756,Sonsón,Oriente,2025,0
+05761,Sopetrán,Occidente,2015,0
+05761,Sopetrán,Occidente,2016,<3
+05761,Sopetrán,Occidente,2017,<3
+05761,Sopetrán,Occidente,2018,0
+05761,Sopetrán,Occidente,2019,0
+05761,Sopetrán,Occidente,2020,0
+05761,Sopetrán,Occidente,2021,<3
+05761,Sopetrán,Occidente,2022,0
+05761,Sopetrán,Occidente,2023,<3
+05761,Sopetrán,Occidente,2024,<3
+05761,Sopetrán,Occidente,2025,0
+05789,Támesis,Suroeste,2015,0
+05789,Támesis,Suroeste,2016,<3
+05789,Támesis,Suroeste,2017,0
+05789,Támesis,Suroeste,2018,<3
+05789,Támesis,Suroeste,2019,<3
+05789,Támesis,Suroeste,2020,<3
+05789,Támesis,Suroeste,2021,<3
+05789,Támesis,Suroeste,2022,0
+05789,Támesis,Suroeste,2023,0
+05789,Támesis,Suroeste,2024,0
+05789,Támesis,Suroeste,2025,0
+05790,Tarazá,Bajo Cauca,2015,<3
+05790,Tarazá,Bajo Cauca,2016,<3
+05790,Tarazá,Bajo Cauca,2017,4
+05790,Tarazá,Bajo Cauca,2018,11
+05790,Tarazá,Bajo Cauca,2019,5
+05790,Tarazá,Bajo Cauca,2020,5
+05790,Tarazá,Bajo Cauca,2021,3
+05790,Tarazá,Bajo Cauca,2022,<3
+05790,Tarazá,Bajo Cauca,2023,0
+05790,Tarazá,Bajo Cauca,2024,0
+05790,Tarazá,Bajo Cauca,2025,0
+05792,Tarso,Suroeste,2015,0
+05792,Tarso,Suroeste,2016,0
+05792,Tarso,Suroeste,2017,0
+05792,Tarso,Suroeste,2018,0
+05792,Tarso,Suroeste,2019,3
+05792,Tarso,Suroeste,2020,0
+05792,Tarso,Suroeste,2021,0
+05792,Tarso,Suroeste,2022,0
+05792,Tarso,Suroeste,2023,<3
+05792,Tarso,Suroeste,2024,0
+05792,Tarso,Suroeste,2025,0
+05809,Titiribí,Suroeste,2015,0
+05809,Titiribí,Suroeste,2016,<3
+05809,Titiribí,Suroeste,2017,0
+05809,Titiribí,Suroeste,2018,0
+05809,Titiribí,Suroeste,2019,<3
+05809,Titiribí,Suroeste,2020,0
+05809,Titiribí,Suroeste,2021,<3
+05809,Titiribí,Suroeste,2022,0
+05809,Titiribí,Suroeste,2023,0
+05809,Titiribí,Suroeste,2024,<3
+05809,Titiribí,Suroeste,2025,0
+05819,Toledo,Norte,2015,0
+05819,Toledo,Norte,2016,0
+05819,Toledo,Norte,2017,0
+05819,Toledo,Norte,2018,<3
+05819,Toledo,Norte,2019,<3
+05819,Toledo,Norte,2020,0
+05819,Toledo,Norte,2021,0
+05819,Toledo,Norte,2022,<3
+05819,Toledo,Norte,2023,0
+05819,Toledo,Norte,2024,0
+05819,Toledo,Norte,2025,0
+05837,Turbo,Urabá,2015,0
+05837,Turbo,Urabá,2016,3
+05837,Turbo,Urabá,2017,3
+05837,Turbo,Urabá,2018,6
+05837,Turbo,Urabá,2019,6
+05837,Turbo,Urabá,2020,<3
+05837,Turbo,Urabá,2021,7
+05837,Turbo,Urabá,2022,4
+05837,Turbo,Urabá,2023,3
+05837,Turbo,Urabá,2024,0
+05837,Turbo,Urabá,2025,<3
+05842,Uramita,Occidente,2015,0
+05842,Uramita,Occidente,2016,0
+05842,Uramita,Occidente,2017,0
+05842,Uramita,Occidente,2018,0
+05842,Uramita,Occidente,2019,<3
+05842,Uramita,Occidente,2020,0
+05842,Uramita,Occidente,2021,0
+05842,Uramita,Occidente,2022,0
+05842,Uramita,Occidente,2023,0
+05842,Uramita,Occidente,2024,0
+05842,Uramita,Occidente,2025,0
+05847,Urrao,Suroeste,2015,3
+05847,Urrao,Suroeste,2016,3
+05847,Urrao,Suroeste,2017,<3
+05847,Urrao,Suroeste,2018,<3
+05847,Urrao,Suroeste,2019,<3
+05847,Urrao,Suroeste,2020,3
+05847,Urrao,Suroeste,2021,0
+05847,Urrao,Suroeste,2022,<3
+05847,Urrao,Suroeste,2023,0
+05847,Urrao,Suroeste,2024,<3
+05847,Urrao,Suroeste,2025,<3
+05854,Valdivia,Norte,2015,<3
+05854,Valdivia,Norte,2016,<3
+05854,Valdivia,Norte,2017,3
+05854,Valdivia,Norte,2018,<3
+05854,Valdivia,Norte,2019,<3
+05854,Valdivia,Norte,2020,0
+05854,Valdivia,Norte,2021,5
+05854,Valdivia,Norte,2022,3
+05854,Valdivia,Norte,2023,<3
+05854,Valdivia,Norte,2024,0
+05854,Valdivia,Norte,2025,<3
+05856,Valparaíso,Suroeste,2015,0
+05856,Valparaíso,Suroeste,2016,0
+05856,Valparaíso,Suroeste,2017,0
+05856,Valparaíso,Suroeste,2018,0
+05856,Valparaíso,Suroeste,2019,0
+05856,Valparaíso,Suroeste,2020,0
+05856,Valparaíso,Suroeste,2021,0
+05856,Valparaíso,Suroeste,2022,0
+05856,Valparaíso,Suroeste,2023,0
+05856,Valparaíso,Suroeste,2024,0
+05856,Valparaíso,Suroeste,2025,0
+05858,Vegachí,Nordeste,2015,<3
+05858,Vegachí,Nordeste,2016,0
+05858,Vegachí,Nordeste,2017,<3
+05858,Vegachí,Nordeste,2018,<3
+05858,Vegachí,Nordeste,2019,<3
+05858,Vegachí,Nordeste,2020,<3
+05858,Vegachí,Nordeste,2021,3
+05858,Vegachí,Nordeste,2022,<3
+05858,Vegachí,Nordeste,2023,0
+05858,Vegachí,Nordeste,2024,<3
+05858,Vegachí,Nordeste,2025,0
+05861,Venecia,Suroeste,2015,<3
+05861,Venecia,Suroeste,2016,<3
+05861,Venecia,Suroeste,2017,0
+05861,Venecia,Suroeste,2018,3
+05861,Venecia,Suroeste,2019,<3
+05861,Venecia,Suroeste,2020,0
+05861,Venecia,Suroeste,2021,3
+05861,Venecia,Suroeste,2022,3
+05861,Venecia,Suroeste,2023,<3
+05861,Venecia,Suroeste,2024,<3
+05861,Venecia,Suroeste,2025,<3
+05873,Vigía del Fuerte,Urabá,2015,0
+05873,Vigía del Fuerte,Urabá,2016,0
+05873,Vigía del Fuerte,Urabá,2017,0
+05873,Vigía del Fuerte,Urabá,2018,0
+05873,Vigía del Fuerte,Urabá,2019,0
+05873,Vigía del Fuerte,Urabá,2020,0
+05873,Vigía del Fuerte,Urabá,2021,0
+05873,Vigía del Fuerte,Urabá,2022,0
+05873,Vigía del Fuerte,Urabá,2023,0
+05873,Vigía del Fuerte,Urabá,2024,0
+05873,Vigía del Fuerte,Urabá,2025,0
+05885,Yalí,Nordeste,2015,0
+05885,Yalí,Nordeste,2016,0
+05885,Yalí,Nordeste,2017,<3
+05885,Yalí,Nordeste,2018,0
+05885,Yalí,Nordeste,2019,0
+05885,Yalí,Nordeste,2020,0
+05885,Yalí,Nordeste,2021,0
+05885,Yalí,Nordeste,2022,0
+05885,Yalí,Nordeste,2023,0
+05885,Yalí,Nordeste,2024,<3
+05885,Yalí,Nordeste,2025,0
+05887,Yarumal,Norte,2015,<3
+05887,Yarumal,Norte,2016,<3
+05887,Yarumal,Norte,2017,3
+05887,Yarumal,Norte,2018,3
+05887,Yarumal,Norte,2019,<3
+05887,Yarumal,Norte,2020,<3
+05887,Yarumal,Norte,2021,0
+05887,Yarumal,Norte,2022,<3
+05887,Yarumal,Norte,2023,<3
+05887,Yarumal,Norte,2024,<3
+05887,Yarumal,Norte,2025,5
+05890,Yolombó,Nordeste,2015,<3
+05890,Yolombó,Nordeste,2016,0
+05890,Yolombó,Nordeste,2017,0
+05890,Yolombó,Nordeste,2018,0
+05890,Yolombó,Nordeste,2019,0
+05890,Yolombó,Nordeste,2020,<3
+05890,Yolombó,Nordeste,2021,4
+05890,Yolombó,Nordeste,2022,0
+05890,Yolombó,Nordeste,2023,0
+05890,Yolombó,Nordeste,2024,0
+05890,Yolombó,Nordeste,2025,<3
+05893,Yondó,Magdalena Medio,2015,<3
+05893,Yondó,Magdalena Medio,2016,0
+05893,Yondó,Magdalena Medio,2017,<3
+05893,Yondó,Magdalena Medio,2018,<3
+05893,Yondó,Magdalena Medio,2019,0
+05893,Yondó,Magdalena Medio,2020,<3
+05893,Yondó,Magdalena Medio,2021,5
+05893,Yondó,Magdalena Medio,2022,<3
+05893,Yondó,Magdalena Medio,2023,<3
+05893,Yondó,Magdalena Medio,2024,<3
+05893,Yondó,Magdalena Medio,2025,3
+05895,Zaragoza,Bajo Cauca,2015,<3
+05895,Zaragoza,Bajo Cauca,2016,<3
+05895,Zaragoza,Bajo Cauca,2017,<3
+05895,Zaragoza,Bajo Cauca,2018,3
+05895,Zaragoza,Bajo Cauca,2019,3
+05895,Zaragoza,Bajo Cauca,2020,0
+05895,Zaragoza,Bajo Cauca,2021,0
+05895,Zaragoza,Bajo Cauca,2022,0
+05895,Zaragoza,Bajo Cauca,2023,<3
+05895,Zaragoza,Bajo Cauca,2024,<3
+05895,Zaragoza,Bajo Cauca,2025,0

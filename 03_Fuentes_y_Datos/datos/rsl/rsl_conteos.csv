@@ -1,0 +1,14 @@
+etapa,RQ1,RQ2,RQ3,total
+identificados,178,76,3174,3428
+descargados,178,76,400,654
+no_descargados_por_tope,0,0,2774,2774
+duplicados_eliminados,10,2,23,35
+unicos_cribados,168,74,377,619
+excl_fuera_del_periodo,0,0,0,0
+excl_tipo_no_admitido,18,6,14,38
+excl_sin_resumen,20,7,75,102
+excl_falta_grupo_a,11,6,2,19
+excl_falta_grupo_b,12,6,45,63
+excluidos_cribado,38,14,89,141
+candidatos_texto_completo,130,60,288,478
+incluidos_tras_texto_completo,pendiente,pendiente,pendiente,pendiente

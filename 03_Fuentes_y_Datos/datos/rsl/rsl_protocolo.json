@@ -1,0 +1,152 @@
+{
+ "fecha_ejecucion_utc": "2026-11-09T04:09:03+00:00",
+ "base": "OpenAlex",
+ "endpoint": "https://api.openalex.org/works",
+ "filtros_comunes": {
+  "campo": "title_and_abstract.search",
+  "publication_year": "2015-2026",
+  "orden": "relevance_score:desc",
+  "tope_descarga_por_cadena": 400
+ },
+ "preguntas": {
+  "RQ1": {
+   "pregunta": "¿Qué métodos computacionales (minería de texto, PLN, extracción de entidades, LLM, RAG) se han usado para extraer o clasificar información de casos de feminicidio, homicidio de mujeres o violencia contra las mujeres a partir de texto (prensa, expedientes, redes)?",
+   "grupo_a": [
+    "femicide",
+    "feminicide",
+    "feminicidio",
+    "femicidio",
+    "intimate partner homicide",
+    "homicide of women",
+    "female homicide",
+    "homicidio de mujeres",
+    "violence against women",
+    "violencia contra las mujeres",
+    "violencia contra la mujer",
+    "gender-based violence",
+    "violencia de género",
+    "intimate partner violence"
+   ],
+   "grupo_b": [
+    "text mining",
+    "minería de texto",
+    "natural language processing",
+    "procesamiento de lenguaje natural",
+    "named entity recognition",
+    "reconocimiento de entidades",
+    "information extraction",
+    "extracción de información",
+    "topic modeling",
+    "topic model",
+    "text classification",
+    "clasificación de textos",
+    "large language model",
+    "modelos de lenguaje",
+    "retrieval-augmented generation",
+    "BERT"
+   ],
+   "filtro_openalex": "title_and_abstract.search:(femicide OR feminicide OR feminicidio OR femicidio OR \"intimate partner homicide\" OR \"homicide of women\" OR \"female homicide\" OR \"homicidio de mujeres\" OR \"violence against women\" OR \"violencia contra las mujeres\" OR \"violencia contra la mujer\" OR \"gender-based violence\" OR \"violencia de género\" OR \"intimate partner violence\") AND (\"text mining\" OR \"minería de texto\" OR \"natural language processing\" OR \"procesamiento de lenguaje natural\" OR \"named entity recognition\" OR \"reconocimiento de entidades\" OR \"information extraction\" OR \"extracción de información\" OR \"topic modeling\" OR \"topic model\" OR \"text classification\" OR \"clasificación de textos\" OR \"large language model\" OR \"modelos de lenguaje\" OR \"retrieval-augmented generation\" OR BERT),publication_year:2015-2026",
+   "conteo_api": 178
+  },
+  "RQ2": {
+   "pregunta": "¿Qué modelos espaciales (GWR, GWPR, MGWR, modelos bayesianos espaciales, autocorrelación espacial) se han usado para explicar la variación territorial del feminicidio u homicidio de mujeres?",
+   "grupo_a": [
+    "femicide",
+    "feminicide",
+    "feminicidio",
+    "femicidio",
+    "homicide of women",
+    "female homicide",
+    "women homicide",
+    "homicidio de mujeres",
+    "intimate partner homicide",
+    "killing of women",
+    [
+     "homicide",
+     [
+      "women",
+      "female",
+      "gender"
+     ]
+    ],
+    [
+     "homicidio",
+     [
+      "mujeres"
+     ]
+    ]
+   ],
+   "grupo_b": [
+    "geographically weighted regression",
+    "regresión geográficamente ponderada",
+    "GWR",
+    "GWPR",
+    "MGWR",
+    "spatial autocorrelation",
+    "autocorrelación espacial",
+    "Moran",
+    "spatial regression",
+    "spatial analysis",
+    "análisis espacial",
+    "spatial econometrics",
+    "Bayesian spatial",
+    "conditional autoregressive",
+    "spatial model",
+    "spatial pattern",
+    "spatial distribution",
+    "hot spot",
+    "hotspot"
+   ],
+   "filtro_openalex": "title_and_abstract.search:(femicide OR feminicide OR feminicidio OR femicidio OR \"homicide of women\" OR \"female homicide\" OR \"women homicide\" OR \"homicidio de mujeres\" OR \"intimate partner homicide\" OR \"killing of women\" OR (homicide AND (women OR female OR gender)) OR (homicidio AND (mujeres))) AND (\"geographically weighted regression\" OR \"regresión geográficamente ponderada\" OR GWR OR GWPR OR MGWR OR \"spatial autocorrelation\" OR \"autocorrelación espacial\" OR Moran OR \"spatial regression\" OR \"spatial analysis\" OR \"análisis espacial\" OR \"spatial econometrics\" OR \"Bayesian spatial\" OR \"conditional autoregressive\" OR \"spatial model\" OR \"spatial pattern\" OR \"spatial distribution\" OR \"hot spot\" OR hotspot),publication_year:2015-2026",
+   "conteo_api": 76
+  },
+  "RQ3": {
+   "pregunta": "¿Qué aplicaciones de LLM o RAG existen para clasificar, categorizar o extraer información de textos de delitos, policiales o judiciales?",
+   "grupo_a": [
+    "large language model",
+    "large language models",
+    "LLM",
+    "retrieval-augmented generation",
+    "retrieval augmented generation",
+    "RAG",
+    "GPT-4",
+    "GPT-3",
+    "generative pre-trained transformer",
+    "modelos de lenguaje",
+    "generación aumentada por recuperación"
+   ],
+   "grupo_b": [
+    "crime",
+    "criminal",
+    "police",
+    "policing",
+    "police reports",
+    "judicial",
+    "court",
+    "case law",
+    "homicide",
+    "delito",
+    "delitos",
+    "policial",
+    "sentencias judiciales"
+   ],
+   "filtro_openalex": "title_and_abstract.search:(\"large language model\" OR \"large language models\" OR LLM OR \"retrieval-augmented generation\" OR \"retrieval augmented generation\" OR RAG OR \"GPT-4\" OR \"GPT-3\" OR \"generative pre-trained transformer\" OR \"modelos de lenguaje\" OR \"generación aumentada por recuperación\") AND (crime OR criminal OR police OR policing OR \"police reports\" OR judicial OR court OR \"case law\" OR homicide OR delito OR delitos OR policial OR \"sentencias judiciales\"),publication_year:2015-2026",
+   "conteo_api": 3174
+  }
+ },
+ "duplicados": "por id de OpenAlex, por DOI y por título normalizado (sin tildes, mayúsculas ni signos; une preprint y versión publicada); cada repetido se cuenta en la primera cadena (orden RQ1, RQ2, RQ3)",
+ "criterios_cribado": {
+  "periodo": "año de publicación entre 2015 y 2026",
+  "resumen": "el registro tiene resumen en OpenAlex (abstract_inverted_index no vacío)",
+  "tipo": "tipo de OpenAlex en: article, book-chapter, conference-paper, dissertation, preprint, review",
+  "conceptos": "al menos un término del grupo A y uno del grupo B de su cadena aparecen en el título o el resumen (comparación sin tildes ni mayúsculas; cada palabra admite sufijos, p. ej. femicide -> femicides; las siglas en mayúsculas solo admiten la 's' final)",
+  "texto_completo": "pendiente: elegibilidad e inclusión final requieren lectura humana del texto completo"
+ },
+ "ajustes_de_cadenas": [
+  "RQ2: la primera versión (solo frases como 'homicide of women' o 'female homicide') devolvió 42 registros en OpenAlex el 2026-11-08; se agregaron (homicide AND (women OR female OR gender)) y (homicidio AND mujeres) para no perder estudios que nombran el homicidio y a las mujeres por separado: 76 registros ese día.",
+  "RQ3: la cadena devuelve miles de registros (3174 el 2026-11-08), sobre todo por 'court' (1226) y por términos de delito (1290). No se recortaron términos porque los textos judiciales son parte de la pregunta; se aplica el tope de descarga por relevancia y el cribado local exige un término de cada grupo.",
+  "Tipos: además de artículo, revisión, tesis, preprint y capítulo se admite 'conference-paper'. OpenAlex clasifica hoy las ponencias aparte de 'article' (el 2026-11-08 eran 138 registros únicos; al admitirlas, los candidatos pasaron de 385 a 498) y en informática son la vía principal de publicación (por ejemplo, el artículo original de RAG es una ponencia).",
+  "RQ3: no se usó el nombre comercial del asistente conversacional más conocido como término de búsqueda; los términos 'large language model', 'LLM' y 'GPT-4' lo cubren solo en parte."
+ ],
+ "inclusion_final": "pendiente (lectura a texto completo)"
+}
