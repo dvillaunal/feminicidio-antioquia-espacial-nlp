@@ -12,7 +12,7 @@ Trabajo de grado de la Maestría en Ingeniería – Analítica, Facultad de Mina
 
 | Entrega | Póster (PDF, 120 × 90 cm) | Secciones |
 | :-- | :-- | :-- |
-| Segunda | [`Poster_Entrega2.pdf`](04_Entregables/Poster_Entrega2/Poster_Entrega2.pdf) | Motivación y cómo, marco teórico, objeto de estudio, revisión sistemática, problema, objetivos |
+| Segunda | [`Poster_Entrega2.pdf`](04_Entregables/Poster_Entrega2/Poster_Entrega2.pdf) y sus [diapositivas](04_Entregables/Poster_Entrega2/Diapositivas_Entrega2.pdf) para la presentación remota | Motivación y cómo, marco teórico, objeto de estudio, revisión sistemática, problema, objetivos |
 | Tercera (borrador) | [`Poster_Entrega3.pdf`](04_Entregables/Poster_Entrega3/Poster_Entrega3.pdf) | Las anteriores, más el diseño metodológico |
 | Primera | [`Poster_Fase1.pdf`](04_Entregables/Poster_Fase1/Poster_Fase1.pdf) | Versión anterior, con el título de la primera fase |
 
@@ -135,6 +135,12 @@ Pósters (el `LANG` en UTF-8 evita que R escriba mal las tildes):
 ```bash
 cd 04_Entregables/Poster_Entrega2
 LANG=en_US.UTF-8 quarto render Poster_Entrega2.qmd --to poster-unal-typst
+```
+
+Diapositivas de la segunda entrega: cada una es una sección del póster recortada a 150 ppp con `pdftocairo` (Poppler) en `diapositivas/s1.png` a `s8.png`; luego `typst compile Diapositivas_Entrega2.typ`. Ejemplo para la sección 1 (las tarjetas empiezan en x = 2,0 / 41,05 / 80,1 cm y en y = 15,95 / 43,95 cm; miden 37,9 × 27 cm; se recortan con 0,3 cm de margen):
+
+```bash
+pdftocairo -png -singlefile -r 150 -x 100 -y 924 -W 2274 -H 1630 Poster_Entrega2.pdf diapositivas/s1
 ```
 
 Ninguna cifra está escrita a mano: `R/datos_poster.R` y `R/rsl_poster.R` las calculan desde los CSV, y `R/figuras_poster.R` dibuja las figuras en SVG al tamaño de impresión.
